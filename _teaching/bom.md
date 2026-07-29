@@ -13,8 +13,8 @@ course_code: "MAT115"
 This course covers the theory and methods for solving ordinary differential equations (ODEs), including first-order, second-order, and systems of ODEs.
 
 **Topics covered:**
-- First-Order ODEs
-- Second-Order Linear ODEs
+- First-Matrices
+- Second-Functions
 - Systems of ODEs
 - Applications in Physics and Biology
 
