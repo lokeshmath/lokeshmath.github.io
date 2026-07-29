@@ -13,7 +13,7 @@ citation: 'Lucas Backes, Davor Dragičević, Mihály Pituk, and Lokesh Singh (20
 
 This paper investigates weighted shadowing properties for delay differential equations. The results extend classical shadowing theory to equations with time delays.
 
-**Keywords:** Weighted shadowing, delay differential equations, nonautonomous systems
+**Keywords:** Weighted shadowing, delay differential equations, nonautonomous systems.
 
 **Impact Factor:** 0.5
 
