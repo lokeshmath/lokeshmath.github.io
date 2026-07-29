@@ -2,7 +2,7 @@
 title: "Mathematics-II"
 collection: teaching
 permalink: /teaching/Mathematics-II
-year: "2025"
+year: "2025-26"
 semester_number: 2
 semester_type: "Even"
 course_code: "MAT111"
@@ -10,13 +10,12 @@ course_code: "MAT111"
 
 ## Course Overview
 
-This course covers the fundamental concepts of linear algebra, including matrices, vector spaces, eigenvalues, and eigenvectors.
+This course covers the fundamental concepts of Differential Equations, Laplace Transform Complex Analysis.
 
 **Topics covered:**
-- Matrices and Determinants
-- Vector Spaces
-- Linear Transformations
-- Eigenvalues and Eigenvectors
+- Differential Equations
+- Laplace Transformation
+- Complex Analysis
 
 ---
 
