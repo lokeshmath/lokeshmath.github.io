@@ -2,7 +2,7 @@
 title: "Calculus I"
 collection: teaching
 permalink: /teaching/calculus-1
-year: "First Year"
+year: "2025"
 semester_number: 1
 semester_type: "Odd"
 course_code: "MA-101"
