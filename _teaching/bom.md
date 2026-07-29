@@ -2,7 +2,7 @@
 title: "Basics of Mathematics"
 collection: teaching
 permalink: /teaching/bom.md
-year: "2025"
+year: "2025-26"
 semester_number: 1
 semester_type: "Odd"
 course_code: "MAT115"
@@ -14,9 +14,9 @@ This course covers the theory and methods for solving ordinary differential equa
 
 **Topics covered:**
 - First-Matrices
-- Second-Functions
-- Systems of ODEs
-- Applications in Physics and Biology
+- Second-Set Theory
+- Third-Differential Equations
+- Fourth-Integration Theory
 
 ---
 
