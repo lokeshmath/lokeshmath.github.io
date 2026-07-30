@@ -1,11 +1,11 @@
 ---
-title: "Calculus I"
+title: "Mathematics for BioSciences"
 collection: teaching
-permalink: /teaching/calculus-1
-year: "2025"
+permalink: /teaching/Mathematicsforbiosciences
+year: "2025-26"
 semester_number: 1
 semester_type: "Odd"
-course_code: "MA-101"
+course_code: "MAT113"
 ---
 
 ## Course Overview
