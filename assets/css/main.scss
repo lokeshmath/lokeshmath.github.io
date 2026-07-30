@@ -37,3 +37,33 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* ============================================
+   CUSTOM STYLES - Added by Dr. Lokesh Singh
+   ============================================ */
+
+/* Increase font size for tables */
+table {
+  font-size: 1.1em !important;
+}
+
+table td, table th {
+  font-size: 1.1em !important;
+  padding: 8px 12px !important;
+}
+
+/* Increase font size for the Research Interests section specifically */
+#research-interests table,
+.research-interests table {
+  font-size: 1.2em !important;
+}
+
+/* Make the entire page content slightly larger (optional) */
+.page__content {
+  font-size: 1.05em;
+}
+
+/* Make headings stand out more (optional) */
+h2 {
+  font-size: 1.8em !important;
+  color: #1a73e8 !important;
+}
