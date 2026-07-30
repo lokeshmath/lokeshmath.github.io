@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Measure Theory"
 permalink: /courses/measure-theory/
 ---
