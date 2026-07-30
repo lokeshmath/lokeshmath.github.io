@@ -3,8 +3,8 @@ title: "Theory of Probability and Statistics"
 collection: teaching
 permalink: /teaching/tps
 year: "2025-26"
-semester_number: 2
-semester_type: "Even"
+semester_number: 3
+semester_type: "Odd"
 course_code: "STA201"
 ---
 
