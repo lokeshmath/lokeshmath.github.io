@@ -72,5 +72,17 @@ I teach courses in **Mathematics** at Amity University Punjab, Mohali, including
 | **GitHub** | [lokeshmath](https://github.com/lokeshmath) |
 
 ---
-
+<!-- Visitor Counter on Homepage -->
+<div style="text-align: center; margin-top: 30px; padding: 15px; background: #f5f5f5; border-radius: 8px;">
+  <p style="margin: 0; font-size: 0.9em;">
+    👁️ This page has been viewed 
+    <span id="homepage-visits" style="font-weight: bold;">Loading...</span> times
+  </p>
+  <script>
+    window.goatcounter.visit_count({
+      append: '#homepage-visits',
+      style: 'span { font-weight: bold; color: #1a73e8; }'
+    });
+  </script>
+</div>
 *Feel free to explore my site to learn more about my research, publications, and teaching.*
