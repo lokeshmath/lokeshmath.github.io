@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+author_profile: true
 ---
 
 I design and deliver courses that build strong mathematical and statistical foundations for engineering and science students. Below are the courses I have taught recently, followed by earlier offerings.
