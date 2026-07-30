@@ -1,7 +1,7 @@
 ---
 title: "Mathematics-II"
 collection: teaching
-permalink: /teaching/Mathematics-II
+permalink: /teaching/mathematics-II
 year: "2025-26"
 semester_number: 2
 semester_type: "Even"
