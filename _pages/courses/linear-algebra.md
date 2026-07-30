@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Linear Algebra"
 permalink: /courses/linear-algebra/
 ---
