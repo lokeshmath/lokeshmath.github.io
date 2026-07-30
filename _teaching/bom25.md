@@ -1,7 +1,7 @@
 ---
 title: "Basics of Mathematics"
 collection: teaching
-permalink: /teaching/bom.md
+permalink: /teaching/bom25.md
 year: "2025-26"
 semester_number: 1
 semester_type: "Odd"
