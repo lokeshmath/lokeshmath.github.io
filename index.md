@@ -27,8 +27,8 @@ My research focuses on **Differential Equations**, with a particular interest in
 | Area | Focus |
 |------|-------|
 | **Ordinary Differential Equations** | Existence and uniqueness of solutions |
-| **Partial Differential Equations** | Analytical and numerical methods |
-| **Mathematical Modeling** | Applications in physics, biology, and engineering |
+| **NonAutonomous Differential Equations** | Solutions in Stable and Unstable directions |
+| **Shadowing Property** | Existence of Solutions |
 
 ---
 
