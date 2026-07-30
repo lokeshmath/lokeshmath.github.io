@@ -13,7 +13,7 @@ I teach the following courses at **Amity University Punjab, Mohali**. Click on a
 
 ### Odd Semester
 
-- [Basics of Mathematics](/teaching/basics-of-mathematics) – MAT115
+- [Basics of Mathematics (2026-27)](/teaching/basics-of-mathematics-2026) – MAT115
 - [Mathematics for BioSciences](/teaching/mathematics-for-biosciences) – MAT113
 - [Theory of Probability and Statistics](/teaching/theory-of-probability-statistics) – STA201
 
@@ -27,7 +27,7 @@ I teach the following courses at **Amity University Punjab, Mohali**. Click on a
 
 ### Odd Semester
 
-- [Basics of Mathematics](/teaching/basics-of-mathematics) – MAT115
+- [Basics of Mathematics (2025-26)](/teaching/basics-of-mathematics-2025) – MAT115
 - [Mathematics for BioSciences](/teaching/mathematics-for-biosciences) – MAT113
 - [Theory of Probability and Statistics](/teaching/theory-of-probability-statistics) – STA201
 
