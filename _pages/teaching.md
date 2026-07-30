@@ -9,21 +9,29 @@ I teach the following courses at **Amity University Punjab, Mohali**. Click on a
 
 ---
 
-{% assign grouped_by_year = site.teaching | group_by: "year" %}
-{% for year_group in grouped_by_year %}
+## 2026-27
 
-## {{ year_group.name }}
+### Odd Semester
 
-{% assign sorted_courses = year_group.items | sort: "semester_number" %}
-{% assign grouped_by_semester = sorted_courses | group_by: "semester_type" %}
+- [Basics of Mathematics](/teaching/basics-of-mathematics) – MAT115
+- [Mathematics for BioSciences](/teaching/mathematics-for-biosciences) – MAT113
+- [Theory of Probability and Statistics](/teaching/theory-of-probability-statistics) – STA201
 
-{% for semester_group in grouped_by_semester %}
+### Even Semester
 
-### {{ semester_group.name }} Semester
+*(Coming soon)*
 
-{% for course in semester_group.items %}
-- **{{ course.title }}** – {{ course.course_code }}
-{% endfor %}
+---
 
-{% endfor %}
-{% endfor %}
+## 2025-26
+
+### Odd Semester
+
+- [Basics of Mathematics](/teaching/basics-of-mathematics) – MAT115
+- [Mathematics for BioSciences](/teaching/mathematics-for-biosciences) – MAT113
+- [Theory of Probability and Statistics](/teaching/theory-of-probability-statistics) – STA201
+
+### Even Semester
+
+- [Mathematics-II](/teaching/mathematics-ii) – MAT111
+- [Statistics for LifeSciences](/teaching/statistics-for-lifesciences) – STA202
