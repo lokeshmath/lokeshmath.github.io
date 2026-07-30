@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Real Analysis II"
 permalink: /courses/real-analysis-ii/
 ---
