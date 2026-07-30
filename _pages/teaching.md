@@ -26,11 +26,11 @@ I design and deliver courses that build strong mathematical and statistical foun
 ---
 
 ## Past Courses (Taught before 2025–26)
-- Linear Algebra  
-- Real Analysis  
-- Theory of Differential Equations  
-- Measure Theory  
-- Real Analysis II  
+- [Linear Algebra]({{ site.baseurl }}/courses/linear-algebra/)
+- [Real Analysis]({{ site.baseurl }}/courses/real-analysis/)
+- [Theory of Differential Equations]({{ site.baseurl }}/courses/theory-of-differential-equations/)
+- [Measure Theory]({{ site.baseurl }}/courses/measure-theory/)
+- [Real Analysis II]({{ site.baseurl }}/courses/real-analysis-ii/)
 
 ---
 
