@@ -4,15 +4,17 @@ author_profile: true
 title: "Dr. Lokesh Singh"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.6"
+  overlay_image: /images/header-banner.jpg
   actions:
     - label: "📄 Download CV"
       url: "/files/cv.pdf"
     - label: "📧 Contact Me"
       url: "mailto:lsingh@pb.amity.edu"
+excerpt: "Assistant Professor | Department of Mathematics | Amity University Punjab, Mohali"
 ---
 
-## About Me
+## 👋 About Me
 
 Hello! I am **Dr. Lokesh Singh**, an **Assistant Professor** in the **Department of Mathematics** at **Amity University Punjab, Mohali**.
 
@@ -22,30 +24,53 @@ My research focuses on **Differential Equations**, with a particular interest in
 
 ## 🔬 Research Interests
 
-- **Ordinary Differential Equations** – Existence and uniqueness of solutions
-- **Partial Differential Equations** – Analytical and numerical methods
-- **Mathematical Modeling** – Applications in physics, biology, and engineering
+| Area | Focus |
+|------|-------|
+| **Ordinary Differential Equations** | Existence and uniqueness of solutions |
+| **Partial Differential Equations** | Analytical and numerical methods |
+| **Mathematical Modeling** | Applications in physics, biology, and engineering |
 
 ---
 
-## 📚 Teaching
+## 📚 Recent Publications
 
-I teach a variety of mathematics courses at the undergraduate and postgraduate levels, including:
+Here are some of my recent publications:
 
-- Calculus and Analytic Geometry
-- Differential Equations
-- Linear Algebra
-- Numerical Methods
+1. **Lokesh Singh** (2023). "Linearization for Difference Equations with Infinite Delay." *Springer Proceedings in Mathematics and Statistics*, Volume 416, Pages 461–472.
 
----
+2. Lucas Backes, Davor Dragičević, Mihály Pituk, and **Lokesh Singh** (2022). "Weighted Shadowing for Delay Differential Equations." *Archiv der Mathematik*, 119.
 
-## 📌 Quick Links
+3. Davor Dragičević, Adina Luminiţa Sasu, Bogdan Sasu, and **Lokesh Singh** (2022). "Nonuniform Input-Output Criteria for Exponential Expansiveness of Discrete Dynamical Systems and Applications." *Journal of Mathematical Analysis and Applications*, 515.
 
-- 📄 **[My CV](/cv)**
-- 📖 **[Publications](/publications)**
-- 🧑‍🏫 **[Teaching](/teaching)**
-- 🗣️ **[Talks](/talks)**
+👉 **[View all publications →](/publications/)**
 
 ---
 
-*Feel free to explore my **[Publications](/publications/)** and **[Teaching](/teaching/)** pages to learn more about my work.*
+## 🧑‍🏫 Teaching
+
+I teach courses in **Mathematics** at Amity University Punjab, Mohali, including:
+
+- **Calculus I** – MA-101 (First Year, Odd Semester)
+- **Linear Algebra** – MA-102 (First Year, Even Semester)
+- **Differential Equations** – MA-203 (Second Year, Odd Semester)
+- **Basics of Mathematics** – MAT115
+- **Mathematics for BioSciences** – MAT113
+- **Theory of Probability and Statistics** – STA201
+
+👉 **[View all courses →](/teaching/)**
+
+---
+
+## 📬 Contact Me
+
+|  |  |
+|------|------|
+| **Email** | [lsingh@pb.amity.edu](mailto:lsingh@pb.amity.edu) |
+| **Google Scholar** | [View Profile](https://scholar.google.com/citations?user=Q-ckMWAAAAAJ&hl=en) |
+| **ORCID** | [0000-0003-1836-6804](https://orcid.org/0000-0003-1836-6804) |
+| **ResearchGate** | [View Profile](https://www.researchgate.net/profile/Lokesh-Singh-7) |
+| **GitHub** | [lokeshmath](https://github.com/lokeshmath) |
+
+---
+
+*Feel free to explore my site to learn more about my research, publications, and teaching.*
