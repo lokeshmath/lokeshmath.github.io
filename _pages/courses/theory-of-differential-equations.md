@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Theory of Differential Equations"
 permalink: /courses/theory-of-differential-equations/
 ---
