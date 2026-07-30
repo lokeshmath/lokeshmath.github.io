@@ -1,7 +1,7 @@
 ---
 title: "Theory of Probability and Statistics"
 collection: teaching
-permalink: /teaching/tps
+permalink: /teaching/topas25
 year: "2025-26"
 semester_number: 3
 semester_type: "Odd"
