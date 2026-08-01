@@ -11,7 +11,7 @@ I design and deliver courses that build strong mathematical and statistical foun
 
 ## 2026–27 (Odd Semester)
 - [STA201 – Theory of Probability and Statistics]({{ site.baseurl }}/courses/STA201/)
-- [MAT306 – Set Theory and Metric Spaces]({{ site.baseurl }}/courses/MAT306/)
+- [MAT304 – Set Theory and Metric Spaces]({{ site.baseurl }}/courses/MAT304/)
 - [MAT113 – Mathematics for Bio Sciences]({{ site.baseurl }}/courses/MAT113/)
 
 ## 2025–26 (Even Semester)
