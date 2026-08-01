@@ -5,7 +5,7 @@ title: "Dr. Lokesh Singh"
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  # overlay_image: /header-banner.jpg
+  overlay_image: /header-banner.jpg
   actions:
     - label: "📄 Download CV"
       url: "/files/cv.pdf"
