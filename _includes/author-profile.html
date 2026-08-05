@@ -177,15 +177,23 @@
 
 
 <!-- Global Visitor Counter -->
-<div class="visitor-counter" style="margin-top: 15px; padding-top: 12px; border-top: 1px solid #e0e0e0; text-align: center;">
-  <p style="font-size: 0.85em; margin: 0; color: #666;">
-    👁️ <span style="font-weight: bold; color: #1a73e8;">Total Visitors:</span><br>
-    <img src="https://lokeshmath.goatcounter.com/count?p=/" alt="Total visitors" style="display: inline-block; margin-top: 4px;">
-  </p>
+<div class="visitor-counter">
+    👁️ Total Visitors:
+    <div id="visit-counter"></div>
 </div>
-<div class="visitor-counter" style="margin-top: 15px; padding-top: 12px; border-top: 1px solid #e0e0e0; text-align: center;">
-  <p style="font-size: 0.85em; margin: 0; color: #666;">
-    🟢 <span style="font-weight: bold; color: #1a73e8;">Total Visitors:</span><br>
-    <img src="https://lokeshmath.goatcounter.com/count?p=/" alt="Total visitors" style="display: inline-block; margin-top: 4px;">
-  </p>
-</div>
+
+<script
+    data-goatcounter="https://lokeshmath.goatcounter.com/count"
+    async
+    src="https://gc.zgo.at/count.js">
+</script>
+
+<script>
+window.addEventListener("load", function () {
+    window.goatcounter.visit_count({
+        append: "#visit-counter",
+        path: "TOTAL",
+        no_branding: true
+    });
+});
+</script>
