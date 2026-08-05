@@ -171,24 +171,25 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
-    </ul>
-  </div>
-</div>
-<!-- Global Visitor Counter -->
-<div class="visitor-counter" style="margin-top:15px; text-align:center;">
-    <div style="font-size:0.9em; color:#666;">
-        👁️ Total Visitors
+      <!-- Global Visitor Counter -->
+      <li class="author__desktop" style="margin-top:12px;">
+  <hr style="margin:8px 0;">
+  <div style="text-align:center;">
+    <div style="font-size:0.9em;color:#666;">
+      👁️ Total Visitors
     </div>
+
     <div id="goatcounter-visits"
-         style="font-size:1.2em; font-weight:bold; color:#1a73e8;">
-        Loading...
+         style="font-size:1.3em;font-weight:bold;color:#1a73e8;">
+      Loading...
     </div>
-</div>
+  </div>
+</li>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
-    function showCounter() {
+    function loadCounter() {
         if (window.goatcounter && window.goatcounter.visit_count) {
             window.goatcounter.visit_count({
                 append: "#goatcounter-visits",
@@ -196,10 +197,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 no_branding: true
             });
         } else {
-            setTimeout(showCounter, 300);
+            setTimeout(loadCounter, 300);
         }
     }
 
-    showCounter();
+    loadCounter();
+
 });
 </script>
+    </ul>
+  </div>
+</div>
