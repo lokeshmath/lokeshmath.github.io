@@ -172,39 +172,31 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
       <!-- Global Visitor Counter -->
-      <li class="author__desktop" style="margin-top:12px;">
-  <hr style="margin:8px 0;">
-  <div style="text-align:center;">
-    <div style="font-size:0.9em;color:#666;">
-      👁️ Total Visitors
-    </div>
+      <hr style="margin:12px 0;">
 
-    <div id="goatcounter-visits"
-         style="font-size:1.3em;font-weight:bold;color:#1a73e8;">
-      Loading...
-    </div>
-  </div>
-</li>
+<div style="text-align:center">
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
+<div style="font-size:0.9em;color:#666;">
+👁️ Visitors
+</div>
 
-    function loadCounter() {
-        if (window.goatcounter && window.goatcounter.visit_count) {
-            window.goatcounter.visit_count({
-                append: "#goatcounter-visits",
-                path: "TOTAL",
-                no_branding: true
-            });
-        } else {
-            setTimeout(loadCounter, 300);
-        }
-    }
+<div style="font-size:26px;font-weight:bold;color:#1a73e8;">
+<span id="busuanzi_container_site_uv" style="display:none;">
+<span id="busuanzi_value_site_uv"></span>
+</span>
+</div>
 
-    loadCounter();
+<div style="margin-top:8px;font-size:0.9em;color:#666;">
+📄 Page Views
+</div>
 
-});
-</script>
+<div style="font-size:26px;font-weight:bold;color:#1a73e8;">
+<span id="busuanzi_container_site_pv" style="display:none;">
+<span id="busuanzi_value_site_pv"></span>
+</span>
+</div>
+
+</div>
     </ul>
   </div>
 </div>
